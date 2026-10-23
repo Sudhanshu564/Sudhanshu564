@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Sudhanshu%20Singh&fontSize=52&fontColor=7dd3fc&fontAlignY=38&desc=CS%20Student%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1e3a5f,100:7dd3fc&text=Sudhanshu%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20-%20Backend%20and%20Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://github.com/Sudhanshu564">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Final-year+CS+student+%40+AIT+Pune+%F0%9F%8E%93;Building+Spring+Boot+microservices+%E2%9A%99%EF%B8%8F;Codeforces+Pupil+%7C+800%2B+DSA+problems+solved+%F0%9F%A7%A9;Ex-Technical+Head+%40+ISDF+Club+%F0%9F%94%90;Open+to+Full+Stack+%26+Data+Analytics+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&height=45&lines=Final-year+CS+student+at+AIT+Pune;Building+Spring+Boot+microservices;Codeforces+Pupil+%7C+800%2B+DSA+problems+solved;Ex-Technical+Head+at+ISDF+Club+(Cybersecurity);Open+to+Full+Stack+and+Data+Analytics+roles" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Full%20Stack%20%7C%20Data%20Analytics-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshu564&label=Profile%20Views&color=7dd3fc&style=flat-square&labelColor=0f172a" alt="Profile views" />
+<img src="https://hits.sh/github.com/Sudhanshu564.svg?style=flat-square&label=Profile%20Views&color=7dd3fc&labelColor=0f172a" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sudhanshu564?label=Followers&style=flat-square&color=7dd3fc&labelColor=0f172a" alt="Followers" />
 
 </div>
@@ -40,6 +40,15 @@ const sudhanshu = {
 
 ---
 
+## 🎓 Education and Leadership
+
+- 🎓 **B.E. Computer Science**, Army Institute of Technology, Pune (2023 - 2027), CGPA **8.57**
+- 🔐 **Technical Head**, Information Security & Digital Forensics (ISDF) Club, AIT Pune (Aug 2025 - Jun 2026)
+  - Led the technical team and designed CTF-style events such as **BYPASS CTF** and **Hide & Seek**
+  - Built challenges across web security, cryptography, and digital forensics, and mentored members in solving them
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🏋️ AI-Based Fitness Recommendation System
@@ -48,7 +57,7 @@ const sudhanshu = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=AI-Fitness-Recommendation-main&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="AI Fitness Recommendation" />
 </a>
 
-Microservices-based fitness system with independent User Management, AI Recommendation, and API Gateway services. The AI service uses Spring WebClient to process user data asynchronously and generate personalized workout insights.
+Microservices-based fitness system with independent User Management, AI Recommendation, and API Gateway services. Eureka handles service discovery, Spring Cloud Config centralizes configuration, and the AI service uses Spring WebClient to process user data asynchronously and generate personalized workout insights.
 
 | Layer | Technology |
 |-------|------------|
@@ -65,11 +74,11 @@ Microservices-based fitness system with independent User Management, AI Recommen
 
 ### 🛒 E-Commerce Microservices Platform
 
-<a href="https://github.com/Sudhanshu564/E-Commerce-Microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=E-Commerce-Microservices&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="E-Commerce Microservices" />
+<a href="https://github.com/Sudhanshu564/e-commerce-microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=e-commerce-microservices&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="E-Commerce Microservices" />
 </a>
 
-Spring Boot e-commerce platform with independently deployable user, product, cart, and order services. Secured with Keycloak, decoupled with RabbitMQ for order and notification workflows, and containerized with Docker.
+Spring Boot e-commerce platform with independently deployable user, product, cart, and order services behind Spring Cloud Gateway. Keycloak secures inter-service communication, RabbitMQ decouples order processing and notifications, and every service is containerized with Docker.
 
 | Layer | Technology |
 |-------|------------|
@@ -81,7 +90,7 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 | Database | MySQL |
 | Deployment | Docker |
 
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Sudhanshu564/E-Commerce-Microservices)
+[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Sudhanshu564/e-commerce-microservices)
 
 ---
 
@@ -93,7 +102,7 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,html,css,figma" alt="Frontend" />
 
-**Backend & Infra**<br/>
+**Backend and Infra**<br/>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,kafka,rabbitmq,docker" alt="Backend and Infra" />
 
 **Databases**<br/>
@@ -102,13 +111,42 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 **Dev Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" alt="Dev Tools" />
 
+**Core CS:** OOP · Data Structures and Algorithms · DBMS · Operating Systems · Computer Networks · System Design
+
+---
+
+## 🧩 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sudhanshu__forever__1-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/sudhanshu_forever_1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1389)-7dd3fc?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/Sudhanshu_123456)
+[![DSA](https://img.shields.io/badge/DSA%20Problems-800%2B-7dd3fc?style=for-the-badge&labelColor=0f172a)](https://leetcode.com/u/sudhanshu_forever_1/)
+
+<br/>
+
+<a href="https://leetcode.com/u/sudhanshu_forever_1/">
+  <img src="https://leetcard.jacoblin.cool/sudhanshu_forever_1?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="500" />
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Merit-cum Scholarship**, awarded to only 3 students in the college for academic performance
+- 💻 **Codeforces Pupil**, rating 1389, plus **800+ DSA problems** solved across LeetCode, Codeforces, and GeeksforGeeks
+- 🌐 **National-level case study competitor** in TATA Crucible, L'Oréal Sustainability Challenge, and the Delhivery Case Study Competition
+- 🏸 **SPPU district-level badminton semi-finalist**, with multiple college tournament appearances
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu564&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a&hide_border=false" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sudhanshu564&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu564&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e2e8f0&bg_color=0f172a" alt="Top languages" />
 
 <br/><br/>
@@ -135,7 +173,9 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhanshu%20Singh-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/sudhanshu-singh-300694289/)
 [![Email](https://img.shields.io/badge/Email-sudhanshusingh4432%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:sudhanshusingh4432@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f172a)](https://leetcode.com/u/sudhanshu_forever_1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-7dd3fc?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0f172a)](https://codeforces.com/profile/Sudhanshu_123456)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7dd3fc,50:1e3a5f,100:0f172a&section=footer" width="100%" alt="footer" />
 
 </div>
