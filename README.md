@@ -74,10 +74,6 @@ Microservices-based fitness system with independent User Management, AI Recommen
 
 ### 🛒 E-Commerce Microservices Platform
 
-<a href="https://github.com/Sudhanshu564/e-commerce-microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=e-commerce-microservices&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="E-Commerce Microservices" />
-</a>
-
 Spring Boot e-commerce platform with independently deployable user, product, cart, and order services behind Spring Cloud Gateway. Keycloak secures inter-service communication, RabbitMQ decouples order processing and notifications, and every service is containerized with Docker.
 
 | Layer | Technology |
@@ -90,7 +86,18 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 | Database | MySQL |
 | Deployment | Docker |
 
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Sudhanshu564/e-commerce-microservices)
+[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/Sudhanshu564?tab=repositories)
+
+<br/>
+
+## 📂 More Projects
+
+<a href="https://github.com/Sudhanshu564/fraud-detection-risk-analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=fraud-detection-risk-analytics&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="Fraud Detection and Risk Analytics" />
+</a>
+<a href="https://github.com/Sudhanshu564/Aegisflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sudhanshu564&repo=Aegisflow&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&text_color=e2e8f0" alt="Aegisflow" />
+</a>
 
 ---
 
@@ -107,6 +114,9 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 
 **Databases**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+
+**Data and Analytics**<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql,powerbi" alt="Data and Analytics" />
 
 **Dev Tools**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" alt="Dev Tools" />
@@ -155,15 +165,15 @@ Spring Boot e-commerce platform with independently deployable user, product, car
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshu564&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-
 </div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshu564&theme=nord&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" width="100%" alt="Contribution graph" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/7dd3fc/Sudhanshu564" width="95%" alt="Contribution graph" />
+</div>
 
 ---
 
